@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-polars-mp-bug-repro"
+  site-url: "https://daniel-vainsencher.github.io/nbdev-polars-mp-bug-repro"
+  description: "Reproduce conflict between nbdev and polars mp method reqs"
+  repo-branch: main
+  repo-url: "https://github.com/daniel-vainsencher/nbdev-polars-mp-bug-repro"
